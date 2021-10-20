@@ -1,0 +1,49 @@
+body {
+
+    background-image: url("station.jpeg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h1{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50pt;
+
+}
+
+h2{
+
+    font-size: 50pt;
+    margin-top: 0;
+    margin-bottom: 60px;
+
+}
+
+button {
+
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: grey;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#increment-btn #save-btn{
+    color: yellow;
+}
+
+p {
+
+    color: white;
+    font-size: 40px;
+    margin-top: 200px;
+    background-color: darkslategrey;
+}
